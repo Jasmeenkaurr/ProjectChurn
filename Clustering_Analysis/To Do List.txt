@@ -7,5 +7,7 @@
 3. Resulting clusters are visualised and labelled for interpretation and actionable insights.
 
 4. Setting the stage for effective modelling and predicting customer churn.,,
+
 5.
 
+6.
