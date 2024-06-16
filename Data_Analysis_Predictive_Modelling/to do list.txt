@@ -2,5 +2,4 @@
 - Clone the repository to local machines.
 - Begin adding project files.
 - Invite team members to join the repository.
-- Coordinate efforts on different branches.
 - Review code through pull requests.
