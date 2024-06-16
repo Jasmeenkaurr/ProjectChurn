@@ -1,10 +1,10 @@
  Clustering Analysis :
 
-- The optimal number of clusters is identified using the elbow method.
+1. The optimal number of clusters is identified using the elbow method.
 
-- A K-Means clustering model is trained on the dataset.
+2. A K-Means clustering model is trained on the dataset.
 
-- Resulting clusters are visualised and labelled for interpretation and actionable insights.
+3. Resulting clusters are visualised and labelled for interpretation and actionable insights.
 
-- Setting the stage for effective modelling and predicting customer churn.
+4. Setting the stage for effective modelling and predicting customer churn.
 
